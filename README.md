@@ -1,7 +1,7 @@
 # Welcome to the Pokedex Project!
 **The Pokedex Project** is an open-source Java program you can use to look up Pokemon data using a database.
 
-Currently, the program contains Pokemon data from **Generation 1** (**Pokemon Red, Green, Blue, & Yellow** games). We have plans to add data from later generations in a future release. Stay tuned!
+Currently, the program contains Pokemon data from **Generation 1** (**Pokemon Red, Green, Blue, & Yellow** games) with included abilities from Generation 3 (**Pokemon FireRed, LeafGreen** games). We have plans to add data from later generations in a future release. Stay tuned!
 
 ## What You Need to Use the Program
 * the Pokedex Project source code ZIP file
